@@ -1,0 +1,14 @@
+1- Game of Cat on Mouse
+https://scratch.mit.edu/projects/123607632/
+	Difficulty increase with advancement (still working on others)
+	Dropping bananas would increase life by 1.
+
+2- Cheesy Puffs
+https://scratch.mit.edu/projects/123605367/
+ 	Making the puff bowl moving
+	Adding empty bowls that decrease the score if touched
+	Making the cat move like walking
+	Winner and Game over ends with tunes
+
+3- Buttons
+https://scratch.mit.edu/projects/123457535/
